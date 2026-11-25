@@ -1,11 +1,42 @@
 [
-  {"item": "diamante", "cantidad": 12},
-  {"item": "obsidiana", "cantidad": 16},
-  {"item": "cuero", "cantidad": 5},
-  {"item": "cana_azucar", "cantidad": 18},
-  {"item": "tabla_roble", "cantidad": 20},
-  {"item": "carbon", "cantidad": 14},
-  {"item": "adoquin", "cantidad": 32},
-  {"item": "lingote_hierro", "cantidad": 10},
-  {"item": "redstone", "cantidad": 8}
+  {
+    "item": "diamante",
+    "cantidad": 12
+  },
+  {
+    "item": "obsidiana",
+    "cantidad": 16
+  },
+  {
+    "item": "cuero",
+    "cantidad": 5
+  },
+  {
+    "item": "cana_azucar",
+    "cantidad": 18
+  },
+  {
+    "item": "tabla_roble",
+    "cantidad": 20
+  },
+  {
+    "item": "carbon",
+    "cantidad": 14
+  },
+  {
+    "item": "adoquin",
+    "cantidad": 32
+  },
+  {
+    "item": "lingote_hierro",
+    "cantidad": 10
+  },
+  {
+    "item": "redstone",
+    "cantidad": 8
+  },
+  {
+    "item": "horno",
+    "cantidad": 0
+  }
 ]
