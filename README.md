@@ -1,4 +1,0 @@
-### Hugo PARTE AA
-## grafo.py
-self.adyacencia: Es una lista de adyacencia implementada con un diccionario de Python. Cada clave (str) es el nombre de un ítem y su valor es una lista de tuplas (ingrediente, cantidad) que representan las dependencias (aristas salientes). Si un ítem es material base, su lista queda vacía [].   
-Normalización en __init__:item.lower() e ing.lower() convierten los nombres a minúsculas para evitar errores si alguien escribe "Diamante" o "DIAMANTE" en el JSON o en la consola.int(cant) asegura que las cantidades se guarden como números enteros y no como texto o flotantes por accidente.
